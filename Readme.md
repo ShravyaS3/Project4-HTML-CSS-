@@ -16,6 +16,11 @@
 
 [Live-Link](https://project4-htmlcss.netlify.app/)
 
+![Thumbnail](./p4-thumbnail.png)
+
+
+
+
 
 
 
